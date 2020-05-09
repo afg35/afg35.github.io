@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# afg35
 
-You can use the [editor on GitHub](https://github.com/afg35/afg35.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## CIT 281 User page
+- This is CIT 281 Github user page
+- A theme has been added to the page
+- Picture has been attached to the site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+## CIT 281 Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 1
+  - Basic Unix Shell commands
+  - Install and Configure Git using the Unix Shell
+  - Basic Git Commands (add, commit, push, clone)
+  - Github overview
+  - Markdown language for README files
+  - JavaScript ES6+ feature
+  - Learning and practicing the 281 workflow
+  - For of loops and foreach method
+  - Dice rolling
 
-```markdown
-Syntax highlighted code block
+### Deployment for Project 1
+Here is my 281 webpage: [Click Here!](https://pages.uoregon.edu/afg/281/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afg35/afg35.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Project 2 (Learned about APIs)  
+  - A web API or Application Programming Interface is an API accessed using the HTTP protocol.
+  - Web APIs often deliver data formatted as JSON.
+  -  A web API can be accessed programmatically using JavaScript.
+  -  The API documentation must first be consulted in order to
+  understand how the API works and what it returns.
+  - Some web APIs are public, and others require an access key.
+  Flickr offers several public APIs.
+  - Used Flickr's public API
